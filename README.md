@@ -1,0 +1,2 @@
+# Patterns for Continuous Integration
+
