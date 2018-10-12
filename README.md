@@ -1,5 +1,10 @@
 # Patterns for Continuous Integration
 
+[![Build Status](https://api.travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_2_DEV.svg?branch=master)](https://travis-ci.org/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_2_DEV)
+[![PyPI version](https://badge.fury.io/py/python-dev-docker-project.svg)](https://badge.fury.io/py/python-dev-docker-project)
+[![Coverage Status](https://coveralls.io/repos/github/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_2_DEV/badge.svg?branch=master)](https://coveralls.io/github/gtesei/Patterns_for_Continuous_Integration_Docker_Travis_CI_2_DEV?branch=master)
+
+
 ## Travis CI 
 
 Focus on Travis CI.  
