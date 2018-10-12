@@ -27,7 +27,7 @@ This keeps the Docker-specific code, which could be considered a deployment deta
 
 Team uses different branches for development and, a certain point, pull-requests for merge the master branch are done. For each one of them, committing the master branch:
 - modifying the version number in _setup.py_, a new release will be created on the package repository (e.g. [PyPI](https://pypi.org/)), 
-- modifying [MkDocs](https://www.mkdocs.org/) ```mkdocs.yml``` and Markdown files under ```doc/``` a new documentation is build by [Read The Docs](https://readthedocs.org/) and [published on-line](https://patterns-for-continuous-integration-docker-travis-ci-2-dev.readthedocs.io/en/latest/?badge=latest) for consultation,  
+- modifying [MkDocs](https://www.mkdocs.org/) ```mkdocs.yml``` and Markdown files under ```doc/``` a new documentation is build by [Read The Docs](https://readthedocs.org/) and [published on-line](https://patterns-for-continuous-integration-docker-travis-ci-2-dev.readthedocs.io/en/latest/?badge=latest) for consultation,   
 - Travis CI builds, tests and packages the software by using __py.test__ and __measuring code coverage of Python code__.
 - if such tests are successful: 
     - code coverage stats are published on [coveralls.io](https://coveralls.io/) through [coveralls](https://pypi.org/project/coveralls/),
