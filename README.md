@@ -41,3 +41,11 @@ When a new development release (e.g. _0.3.9.dev0_) is ready and tested for produ
 - Travis CI does two new docker development images, e.g. _0.3.9.dev0_ (the image of the development release tagged for production, for archiving purpouse) and _latest_ (the production image of the project), on the Docker Registry, e.g. [Docker Hub](https://hub.docker.com).
 
 
+## Jenkins  
+
+Focus on Jenkins.
+
+![Patterns for Continuous Integration with Docker using Jenkins](https://raw.githubusercontent.com/gtesei/Patterns_for_Continuous_Integration_Docker_Jenkins/master/img/Docker_Repo_Pattern_Jenkins.png)
+
+#### [Patterns for Continuous Integration with Docker using Jenkins](https://github.com/gtesei/Patterns_for_Continuous_Integration_Docker_Jenkins) 
+
